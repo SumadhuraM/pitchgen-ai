@@ -19,7 +19,6 @@ Built with React, Node.js, and the Groq API (Llama 3.3 70B).
 - **10-Slide Pitch Deck** — fully assembled, navigable deck with all generated content
 - **PDF Export** — download your pitch deck as a styled PDF
 - **History** — all generated pitch decks saved locally in the browser
-- **Dark Glassmorphism UI** — modern dark theme with frosted-glass card components
 - **Responsive Design** — works on mobile, tablet, and desktop
 
 ---
